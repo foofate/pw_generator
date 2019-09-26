@@ -1,4 +1,4 @@
-// Fa�a um programa que leia um primeiro nome para transformar para o c�digo decimal da tabela ASCII e criar uma senha de 6 caracteres:
+// Faça um programa que leia um primeiro nome para transformar para o código decimal da tabela ASCII e criar uma senha de 6 caracteres:
 import java.util.Scanner;
 
 public class DecimalASCII {
